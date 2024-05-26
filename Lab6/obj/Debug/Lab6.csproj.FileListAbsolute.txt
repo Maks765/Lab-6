@@ -1,0 +1,10 @@
+C:\Users\maksi\source\repos\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\maksi\source\repos\Lab6\bin\Debug\Lab6.exe
+C:\Users\maksi\source\repos\Lab6\bin\Debug\Lab6.pdb
+C:\Users\maksi\source\repos\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\Lab6\obj\Debug\Lab6.Form1.resources
+C:\Users\maksi\source\repos\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\Users\maksi\source\repos\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+C:\Users\maksi\source\repos\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\Lab6\obj\Debug\Lab6.exe
+C:\Users\maksi\source\repos\Lab6\obj\Debug\Lab6.pdb
